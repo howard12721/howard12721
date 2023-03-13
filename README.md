@@ -12,6 +12,11 @@
 - 🎮Minecraft
 - 🎮Garry's Mod
 
+## いる場所
+
+- [JapanPvPServer](https://discord.gg/rQjdHJKFq8)
+- [福舞鯖](https://discord.gg/GAUrAa7gwQ)
+
 ## 統計
 
 [![](https://raw.githubusercontent.com/howard12721/howard12721/main/profile-summary-card-output/algolia/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
