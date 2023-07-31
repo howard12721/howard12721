@@ -14,7 +14,7 @@
 
 ## いる場所
 
-- [JapanPvPServer](https://discord.gg/rQjdHJKFq8)
+- [JPS](https://discord.gg/jps)
 - [福舞鯖](https://discord.gg/GAUrAa7gwQ)
 
 ## 統計
