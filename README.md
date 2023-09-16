@@ -15,7 +15,6 @@
 ## いる場所
 
 - [JPS](https://discord.gg/jps)
-- [福舞鯖](https://discord.gg/GAUrAa7gwQ)
 
 ## 統計
 
