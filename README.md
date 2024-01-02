@@ -2,6 +2,8 @@
 
 そこにいる高校生
 
+受験勉強をしている
+
 たまにプログラミングしてる
 
 ## 趣味
@@ -11,10 +13,6 @@
 - 🔧Discord Bot
 - 🎮Minecraft
 - 🎮Garry's Mod
-
-## いる場所
-
-- [JPS](https://discord.gg/jps)
 
 ## 統計
 
