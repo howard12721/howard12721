@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/howard12721/howard12721/main/profile-summary-card-output/buefy/4-productive-time.svg)
-```
-
-    
