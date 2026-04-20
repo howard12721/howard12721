@@ -9,6 +9,8 @@
 - 🍜**ラーメン**
 - 🔧Bukkit/Spigot Plugin
 - 🔧Discord Bot
+- 🔧Web API Server
+- 🔧Mobile App
 - 🎮Minecraft
 - 🎮Garry's Mod
 
